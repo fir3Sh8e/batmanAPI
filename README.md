@@ -18,7 +18,12 @@ A fun Python project that interacts with a fictional Gotham City API to retrieve
 - License  
 - Author  
 
+## Future Ideas
 
+- Gotham weather  
+- Alfred assistant  
+- Bat-Signal tracker
+  
 ## About the Project
 
 batmanAPI.py is a beginner-friendly Python application designed to simulate working with an API in a fun and memorable way. Instead of using generic data, this project focuses on Gotham City content.
