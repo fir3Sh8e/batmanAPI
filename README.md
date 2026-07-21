@@ -100,11 +100,11 @@ Educational use.
 Alta3 Research Training Project
 
 ## Files
-**Requirements
+- Requirements - 
 Outlines the requirements needed for this project.
 
-**BatmanAPI
+- BatmanAPI -
 Python script for project.
 
-**Document Folder
+- Document Folder -
 Contains release notes for this project.
