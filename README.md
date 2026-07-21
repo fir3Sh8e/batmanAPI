@@ -5,6 +5,7 @@ A fun Python project that interacts with a fictional Gotham City API to retrieve
 
 ## Table of Contents
 
+- Future Ideas
 - About the Project  
 - Features  
 - How It Works  
@@ -16,7 +17,8 @@ A fun Python project that interacts with a fictional Gotham City API to retrieve
 - Roadmap  
 - Contributing  
 - License  
-- Author  
+- Author
+- Files 
 
 ## Future Ideas
 
@@ -91,10 +93,18 @@ Contributions are welcome.
 
 
 ## License
-
 Educational use.
-
 
 ## Author
 
 Alta3 Research Training Project
+
+## Files
+#Requirements
+Outlines the requirements needed for this project.
+
+#BatmanAPI
+Python script for project.
+
+#Document Folder
+Contains release notes for this project.
